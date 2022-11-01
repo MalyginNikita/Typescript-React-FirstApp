@@ -1,5 +1,3 @@
-import useProducts from '../hooks/products'
-
 interface ErrorProps {
   error: string
 }
